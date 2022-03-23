@@ -28,4 +28,4 @@ function restore-full-database {
 }
 
 # Execute it
-# restore-restore-full-database-database
+# restore-full-database-database
